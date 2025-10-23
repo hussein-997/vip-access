@@ -1,1 +1,5 @@
-{"usuarios":[{"app_name":"GBWhatsApp Pro","app_user":"Usuário de teste","app_mail":"teste@gmail.com","app_key":"ABC123","app_size":"369.62 KB","app_date":"2025-10-16","app_status":"ativo"},{"app_name":"GBWhatsApp Pro","app_user":"Maria Souza","app_mail":"maria.souza@gmail.com","app_key":"ZXCVB-98765","app_size":"369.62 KB","app_date":"2025-10-17","app_status":"ativo"}]}
+{"usuarios":[
+{"app_name":"GBWhatsApp Pro","app_user":"Hussein","app_mail":"hussein@gmail.com","app_key":"HUSSEIN-12345","app_status":"ativo"},
+{"app_name":"GBWhatsApp Pro","app_user":"Maria","app_mail":"maria.souza@gmail.com","app_key":"ZXCVB-98765","app_status":"ativo"},
+{"app_name":"GBWhatsApp Pro","app_user":"João","app_mail":"joao@gmail.com","app_key":"JOAO-54321","app_status":"ativo"}
+]}
