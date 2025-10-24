@@ -1,12 +1,18 @@
 {
+  "meta": {
+    "app_revoke": false,
+    "app_versao": "22.95"
+  },
   "usuarios": [
     {
-      "app_name": "GBWhatsApp Pro",
-      "app_user": "Hussein",
       "app_mail": "hussein@gmail.com",
       "app_key": "HUSSEIN-12345",
-      "app_status": "ativo",
-      "app_version": "22.95"
+      "app_status": "ativo"
+    },
+    {
+      "app_mail": "maria@gmail.com",
+      "app_key": "MARIA-77777",
+      "app_status": "ativo"
     }
   ]
 }
