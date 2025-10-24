@@ -1,6 +1,6 @@
 {
   "meta": {
-    "app_revoke": false,
+    "app_revoke": true,
     "app_versao": "22.95"
   },
   "usuarios": [
