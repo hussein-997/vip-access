@@ -1,6 +1,6 @@
 {
   "meta": {
-    "force_reset": "true"
+    "global_reset": "false"
   },
   "usuarios": [
     {
@@ -12,6 +12,11 @@
       "app_mail": "maria@gmail.com",
       "app_key": "MARIA-77777",
       "app_status": "ativo"
+    },
+    {
+      "app_mail": "teste@gmail.com",
+      "app_key": "TESTE-00000",
+      "app_status": "desativado"
     }
   ]
 }
