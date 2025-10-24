@@ -6,8 +6,8 @@
     {
       "app_mail": "hussein@gmail.com",
       "app_key": "HUSSEIN-12345",
-      "app_status": "ativo",
-      "app_revoke": "ativo"
+      "app_status": "desativado",
+      "app_revoke": "desativado"
     },
     {
       "app_mail": "maria@gmail.com",
